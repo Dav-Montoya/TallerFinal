@@ -1,7 +1,15 @@
 h1, h3{
+<<<<<<< HEAD
     color:rgba(82, 3, 124, 0.981);
 }
 
 body{
     background-color: rgba(40, 186, 67, 0.981);
+=======
+    color:rgb(255, 255, 0);
+}
+
+body{
+    background-color: rgb(226, 43, 43);
+>>>>>>> desarrollo
 }
